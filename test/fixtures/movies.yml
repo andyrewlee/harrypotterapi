@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  release_date: 2016-01-30
+  running_time: 1
+  budget: 1
+  gross_revenue: 1
+  image_url: MyString
+
+two:
+  name: MyString
+  release_date: 2016-01-30
+  running_time: 1
+  budget: 1
+  gross_revenue: 1
+  image_url: MyString
